@@ -306,6 +306,7 @@ public class SudokuFile extends javax.swing.JFrame {
         checkbt = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("Sudoku Solver");
         setPreferredSize(new java.awt.Dimension(560, 750));
 
         jPanel4.setBorder(javax.swing.BorderFactory.createLineBorder(null));
